@@ -1,2 +1,3 @@
 # machine-learning-methods
-ММО
+
+Лабы и презентация по ММО
